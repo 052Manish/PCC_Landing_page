@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+
+.header{
+    height: 80px;
+    background-color: rgb(22, 23, 23);
+    padding: 10px 30px;
+    position: fixed;
+    width: 100%;
+    
+}
+.bar{
+   font-size: 30px; 
+   margin: 30px;
+   text-decoration: none;
+   color: rgb(249, 248, 248);
+   padding-top: 10px;
+   /* transition: transform 0.2s ease-in-out; */
+}
+
+
+.ubar{
+    padding-top: 30px;
+    margin-left: 1000px;
+    
+}
+
+#pic1{
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+    margin-top: 160px;
+
+}
+.heading{
+    padding: 250px 30px 0px;
+    
+    margin-left: 200px;
+    font-size: 80px;
+    color: rgb(3, 71, 73);
+    font-weight: 900;
+    
+}
+
+.uheading{
+    padding: 0px 40px;
+    font-size: 30px;
+    margin-left: 200px;
+    color: rgb(108, 46, 82);
+    /* background-color: aqua; */
+}
+.photo{
+    height: 650px;
+}
+.section2{
+    
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    /* height: 2900px; */
+}
+.uheading1{
+    padding: 20px 40px;
+    font-size: 30px;
+    margin-left: 200px;
+}
+.section3{
+    display: flex;
+    background: #83ad90;
+}
+.about{
+    width: 800px;
+    padding: 100px;
+    /* margin-left: 300px; */
+    color: rgb(87, 6, 46);
+    font-size: 80px;
+   
+    text-align: center;
+    font-weight: 550;
+    font-family: Oswald;
+}
+.content{
+    width: 900px;
+    padding: 100px 100px 100px 0px;
+    margin-left: 0;
+    text-align: justify;
+    /* background-color: antiquewhite; */
+    /* text-align: center; */
+    margin-right: 500px;
+    font-size: 20px;
+    font-family: Fjalla One;
+}
+.section4{
+    display: flex;
+    background:  #83ad90;
+}
+.staff{
+    margin-left: 1000px;
+    margin-top: 150px;
+    font-size: 35px;
+    font-weight: 549;
+    color: rgb(20, 20, 20);
+    padding: 10px;
+}
+.image{
+    margin-left: 300px;
+}
+.name{
+    font-size: 30px;
+    padding: 20px;
+}
+.section5{
+    padding-left: 790px;
+    padding-top: 50px;
+    padding-bottom: 90px;
+    font-size: 70px;
+    color: #f1f1f5;
+    display: flex;
+    background-color:#83ad90;
+}
+.section6{
+    /* width: 5px; */
+    display: flex;
+    padding-right: 1455px;
+    background-color: #83ad90;
+    
+}
+.section6 img{
+    width: 100%;
+    margin: 15px;
+    border-radius: 50px;
+   
+}
+.ename span{
+    margin: 145px;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.section7{
+    display: flex;
+    padding-top: 140px;
+    height: 500px;
+    background-color: #83ad90;
+}
+.visionhead,.missionhead{
+    /* padding-left: 40px; */
+    text-align: center;
+    padding-bottom: 25px;
+    padding-right: 18px;
+    font-size: 50px;
+    font-family: system-ui;
+    font-weight: 550;
+}
+.visioncon{
+    padding-left: 220px;
+    padding-right: 190px;
+    text-align: justify;
+    font-size: 20px;
+}
+.missioncon{
+    padding-right: 220px;
+    text-align:justify; 
+    padding-left: 120px;
+    font-size: 20px;
+}
+.footer{
+    background-color: rgb(177, 191, 196);
+    padding-bottom: 40px;
+    height: 260px;
+}
+.aligncontact{
+    display: flex;
+    /* padding-left: 100px; */
+    padding-top: 40px;
+}
+.contact{
+    text-align: center;
+    padding-top: 39px;
+    font-size: 40px;
+    font-weight: 550;
+}
+
+.reach{
+    text-align: center;
+    padding-top: 9px;
+    font-size: 23px;
+}
+
+.emailcon{
+    padding-left: 248px;
+    padding-top: 12px;
+    
+}
+.callcon{
+    padding-right: 90px;
+    padding-top: 12px;
+    margin-left: 325px;
+}
+.addresscon{
+    padding-top: 12px;
+    margin-left: 290px;
+    font-size: 18px;
+}
+.pin,.India{
+    margin-left: 290px;
+}
+.address{
+    padding-left: 390px;
+    font-size: 25px;
+}
+.email{
+    padding-left: 300px;
+    font-size: 25px;
+}
+.call{
+ margin-left: 350px;
+    font-size: 25px;
+}
